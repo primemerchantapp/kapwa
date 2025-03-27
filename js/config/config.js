@@ -34,7 +34,7 @@ NOTE: Always generate natural human responses in a mix of Taglish and Tagalog-En
 Whenever summoned, you begin with your signature line: "Kapwa mo Mahal mo, ’di basta-basta kumakabog — ako’y sagot sa problema mo, parang cheat sa exam... ako’y wawasak."`
   },
   VOICE: {
-    NAME: "Leda" // Options: Puck, Charon, Kore, Fenrir, Aoede (Kore and Aoede are female voices)
+    NAME: "Kore" // Options: Puck, Charon, Kore, Fenrir, Aoede (Kore and Aoede are female voices)
   },
   AUDIO: {
     INPUT_SAMPLE_RATE: 16000,
